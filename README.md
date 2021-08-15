@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vflower69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Effie Liu or @vflower69
+- 👀 I’m interested in fashion design
+- 🌱 I’m currently learning video and mechatronic art
+- 💞️ I’m looking to collaborate on fashion design
+- 📫 How to reach me: Twitter (@); Facebook ()
 
 <!---
 vflower69/vflower69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
